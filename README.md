@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently ~~working~~ MEOWING at [Spectrum Labs](https://www.spectrumlabsai.com/)
+- 🔭 I’m currently ~~working~~ MEOWING at Meta and previously MEOWED at [Spectrum Labs](https://www.spectrumlabsai.com/)
 - 🌱 I’m currently ~~learning~~ MEOWING...
 - 👯 I’m looking to ~~collaborate~~ MEOW MEOW MEOW MEOW MEOW
 - 🤔 I’m ~~looking for help with~~ MEOWMEOWMEOWMEOW
@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: MEOW
 
 ![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=erhuve&count_private=true&show_icons=true&theme=buefy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erhuve&langs_count=10&theme=buefy&layout=compact)
+
+w/o HTML
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erhuve&hide=html&langs_count=10&theme=buefy&layout=compact)
+
+w/o HTML or Jupyter Notebook
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erhuve&hide=html,jupyter%20notebook&langs_count=10&theme=buefy&layout=compact)
