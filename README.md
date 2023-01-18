@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently ~~working~~ going to MEOW at [Spectrum Labs](https://www.spectrumlabsai.com/)
+- 🔭 I’m currently ~~working~~ MEOWING at [Spectrum Labs](https://www.spectrumlabsai.com/)
 - 🌱 I’m currently ~~learning~~ MEOWING...
 - 👯 I’m looking to ~~collaborate~~ MEOW MEOW MEOW MEOW MEOW
 - 🤔 I’m ~~looking for help with~~ MEOWMEOWMEOWMEOW
