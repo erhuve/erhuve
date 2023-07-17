@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 -->
+# [raymondluo.dev](https://raymondluo.dev/)
 
-- 🔭 I’m currently ~~working~~ MEOWING at [Spectrum Labs](https://www.spectrumlabsai.com/)
+- 🔭 I’m currently ~~working~~ MEOWING at I need a job
 - 🌱 I’m currently ~~learning~~ MEOWING...
 - 👯 I’m looking to ~~collaborate~~ MEOW MEOW MEOW MEOW MEOW
 - 🤔 I’m ~~looking for help with~~ MEOWMEOWMEOWMEOW
