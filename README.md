@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m ~~looking for help with~~ MEOWMEOWMEOWMEOW
 - 💬 Ask me about MEOWING
 - 📫 How to reach me: MEOW
-- 😄 Pronouns: he/him
+- 😄 Pronouns: any he/him/she/her
 - ⚡ Fun fact: MEOW
 <div align="center">
 <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=erhuve&count_private=true&show_icons=true&theme=buefy"/></br>
