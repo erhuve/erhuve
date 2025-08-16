@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 # [raymondluo.dev](https://raymondluo.dev/)
 
-- 🔭 I’m currently ~~working~~ MEOWING at <a href="https://www.culmination.com/">Culmination Bio</a>
+- 🔭 I’m currently ~~working~~ MEOWING at <a href="https://www.zo.computee/">Zo</a>
 - 🌱 I’m currently ~~learning~~ MEOWING...
 - 👯 I’m looking to ~~collaborate~~ MEOW MEOW MEOW MEOW MEOW
 - 🤔 I’m ~~looking for help with~~ MEOWMEOWMEOWMEOW
